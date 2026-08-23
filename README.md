@@ -1,4 +1,4 @@
-# CS-NO hydrogel in acute kidney injury
+# CS-NO hydrogel in kidney injury
 
 This repository contains the processed single-cell RNA-sequencing data and analysis code supporting the manuscript:
 
