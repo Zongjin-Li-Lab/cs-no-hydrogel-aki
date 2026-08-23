@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript and this software release."
+title: "CS-NO hydrogel in acute kidney injury: single-cell RNA-seq data and analysis"
+type: software
+authors:
+  - family-names: Li
+    given-names: Zongjin
+    affiliation: "School of Medicine, Nankai University"
+version: 1.0.0
+date-released: 2026-08-23
+license: MIT
+keywords:
+  - single-cell RNA sequencing
+  - acute kidney injury
+  - nitric oxide
+  - hydrogel
+  - Seurat
+  - CellChat

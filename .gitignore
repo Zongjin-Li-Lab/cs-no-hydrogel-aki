@@ -1,0 +1,22 @@
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Downloaded release assets and large derived objects
+data/raw/
+data/processed/*.rds
+data/processed/*.h5seurat
+data/processed/*.h5ad
+data/release/*.tar.gz
+
+# Generated output
+figures/
+results/generated/
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+~$*
