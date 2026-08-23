@@ -1,0 +1,24 @@
+Environment used to inspect and validate the final annotated object
+Date: 2026-08-23
+Platform: macOS arm64
+
+R	4.5.2
+Seurat	5.5.1
+SeuratObject	5.4.0
+harmony	2.0.5
+CellChat	2.2.0
+monocle3	1.4.26
+clusterProfiler	4.18.4
+fgsea	1.36.2
+ComplexHeatmap	2.26.1
+DESeq2	1.50.2
+DropletUtils	1.30.0
+scater	1.38.1
+tidyverse	2.0.0
+ggplot2	4.0.3
+patchwork	1.3.2
+future	1.75.0
+
+The original Cell Ranger matrix headers record Cell Ranger 5.0.0.
+SingleR, celldex, and msigdbr were not installed in the validation environment;
+the preprocessing scripts document them as dependencies for a full rerun.
