@@ -79,4 +79,4 @@ Code is released under the [MIT License](LICENSE). Data tables and processed mat
 
 Zongjin Li Lab, School of Medicine, Nankai University  
 Website: [zongjinlab.com](https://www.zongjinlab.com)  
-Email: zongjinli at nankai.edu.cn
+Email: zongjinli@nankai.edu.cn
